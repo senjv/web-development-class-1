@@ -1,0 +1,23 @@
+
+/*comments for para1*/
+.para1 {
+	color: red;
+}
+/*this will make your class 1 bg into blue*/
+.class1 {
+	background-color: blue;
+	text-align: center;
+}
+/*makes your bgcolor green for class2*/
+.class2 {
+	background-color: green;
+	text-align: right;
+}
+ #heading1{
+ 	color: yellow;
+ }
+p.para2{
+	color: brown
+	background-color: black;
+	text-align: left;
+}
