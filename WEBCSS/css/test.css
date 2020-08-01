@@ -1,22 +1,22 @@
 body {
 	background-color: yellow;
 	background-image: url("images/g605.jpg");
-	}
+}
 
 /* this is an element */
 h1, p, li, ul {
 	color: red;
 	text-align: center;
-			}
+}
 	/* this is an class */
-	.para1{
+.para1{
 	font-family:"Century";
 	color: blue;
 	text-align: left;
-	}
-	/* this is a id */
-	#para2 {
-		font-family: "Arial Black";
-		color: green;
-		text-align: center;
-		}
+}
+/* this is a id */
+#para2 {
+	font-family: "Arial Black";
+	color: green;
+	text-align: center;
+}
